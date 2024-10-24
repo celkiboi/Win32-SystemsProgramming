@@ -1,0 +1,61 @@
+# Visual Studio temporary files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Oo]bj/
+[Bb]in/
+x64/
+x86/
+ipch/
+*.ipch
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+*.vcxproj.user
+*.vscode/
+
+# Visual Studio Code files
+.vscode/
+*.code-workspace
+
+# Visual Studio specific files
+*.pdb
+*.cache
+*.ilk
+*.log
+*.obj
+*.idb
+*.iobj
+*.tlog
+*.tlh
+*.tli
+*.hmap
+*.pch
+*.ipdb
+*.aps
+
+# Other files
+*.tmp
+*.tmp.*
+*.temp
+*.log
+*.vspscc
+*.vssscc
+
+# NuGet packages
+**/packages/*
+!**/packages/build/
+!**/packages/build/**/lib/**
+
+# Publish output
+**/publish/
+
+# JetBrains Rider
+.idea/
