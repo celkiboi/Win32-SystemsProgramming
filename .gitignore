@@ -61,4 +61,5 @@ ipch/
 .idea/
 
 # Tests for file copy-ing
-.Tests/
+Tests/
+Tests/*
