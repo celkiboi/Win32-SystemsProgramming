@@ -59,3 +59,6 @@ ipch/
 
 # JetBrains Rider
 .idea/
+
+# Tests for file copy-ing
+.Tests/
