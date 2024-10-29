@@ -1,0 +1,2 @@
+#define CANNOT_LOAD_DLL -1
+#define CANNOT_LOAD_DLL_FUNCTION -2

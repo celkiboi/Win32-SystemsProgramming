@@ -63,3 +63,7 @@ ipch/
 # Tests for file copy-ing
 Tests/
 Tests/*
+
+# Compiled .lib and .dll
+*.dll
+*.lib
